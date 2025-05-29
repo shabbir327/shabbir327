@@ -33,17 +33,14 @@ I’m especially passionate about:
 
 Here are a few highlights from my GitHub:
 
-- 🧮 **[Contoso Time Registration Dashboard](https://github.com/shabbir327/contoso-time-tracking)**  
-  Power BI report for consulting firm analysis – projects, clients, and employee time.
+- 🧮 **[Clustering Customers](https://github.com/shabbir327/ClusteringCustomers)**  
+  Identifying patterns in customer behavior, demographics, and spending habits to segment customers into distinct groups..
 
 - 📊 **[E-commerce Sales Dashboard](https://github.com/shabbir327/ecom-sales-dashboard)**  
   Multi-brand analytics with filters for brand, city, customer, and defect rate.
 
-- 🌐 **[Flask + PostgreSQL Web App](https://github.com/shabbir327/flask-feedback-app)**  
-  Student-level project with login, form submission, and PostgreSQL integration.
-
-- 🐒 **[DSK805 Primate Diet Classifier](https://github.com/shabbir327/primate-diet-classification)**  
-  R-based machine learning project predicting dietary habits of primates using molar measurements.
+- 📊 **[Web Scraping & Visualization using Dash Plotly](https://github.com/shabbir327/Gutenberg)**  
+  Beautiful Soup & Dash Plotly based web scraper and visualizer of top 100 books from Gutenberg.org
 
 ---
 
